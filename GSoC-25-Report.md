@@ -46,7 +46,7 @@ The platform implements a dual-track evaluation system:
 ## GitHub Repository
 
 - **Main Repository:** [Bountiful-BountyPlatform-Ergo](https://github.com/StabilityNexus/Bountiful-BountyPlatform-Ergo)
-- **Live Demo:** *Deployment in progress*
+- **Live Demo:** [*Lhttps://bountiful.stability.nexus/*](https://bountiful.stability.nexus/)
 
 ---
 
@@ -219,7 +219,7 @@ This comprehensive PR introduced the complete judge ecosystem with selection, pr
 ---
 
 ### PR #16: Fix Judge Selection and Detection System
-**Status:** 🔄 Open (Under Review)   
+**Status:** ✅ Merged   
 **Link:** [Pull Request #16](https://github.com/StabilityNexus/Bountiful-BountyPlatform-Ergo/pull/16)  
 
 **Description:**
@@ -250,7 +250,7 @@ This PR addresses critical issues in the judge reputation system identified duri
 ---
 
 ### PR #17: Refactor - Load Ergo Smart Contracts from .es Files
-**Status:** 🔄 Open (Under Review)  
+**Status:** ✅ Merged  
 **Link:** [Pull Request #17](https://github.com/StabilityNexus/Bountiful-BountyPlatform-Ergo/pull/17)  
 
 **Description:**
@@ -282,7 +282,7 @@ Major refactoring to improve maintainability by extracting smart contracts from 
 ---
 
 ### PR #18: Fix Static Build & Add GitHub Actions Deployment Workflow
-**Status:** 🔄 Open (Under Review)  
+**Status:** ✅ Merged  
 **Link:** [Pull Request #18](https://github.com/StabilityNexus/Bountiful-BountyPlatform-Ergo/pull/18)  
 
 **Description:**
